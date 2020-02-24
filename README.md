@@ -1,2 +1,2 @@
-# atulone
+# AtulOne.com
 My Personal Website
